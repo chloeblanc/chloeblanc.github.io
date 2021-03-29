@@ -17,6 +17,7 @@ h2 { color: #ff75a0;
 }
 
 .imgr{border-radius: 100px;
+    align-items: center;
 }
 
 div { border: 0px solid;
