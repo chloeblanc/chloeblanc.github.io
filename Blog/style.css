@@ -63,3 +63,6 @@ box-shadow: -8px -6px #9bd6de;
 }
 
 .btn {font-family: 'Shrikhand';}
+
+.btn :hover { background-color: #FFFFFF; color: #9bd6de; 
+    box-shadow: -8px -6px #9bd6de; }
