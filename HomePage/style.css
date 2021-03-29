@@ -26,7 +26,6 @@ h3 {font-family: 'Shrikhand' ;}
 h4 {font-family: 'Shrikhand' ;  font-size: 24px}
 
 .hero2 {
--webkit-animation: random 30s infinite;
 padding:1%;
 scroll-behavior: smooth;
 }
