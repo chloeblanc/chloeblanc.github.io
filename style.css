@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+body {font-family: 'Montserrat';
+  background-color: #dddddd;
+ 
+}
+
+h1 { color: #f875aa;
+  font-family: 'Shrikhand';
+   font-size: 50px;
+}
+
+h2 { color: #ff75a0;
+  font-family: 'Shrikhand';
+     font-size: 25px;
+}
+
+.imgr{border-radius: 100px;
+}
+
+div { border: 0px solid;
+margin: 50px 250px;
+padding: 20px;
+border-radius: 20px;
+box-shadow: -8px -6px #f875aa;
+background-color: white;
+}
+
+div:hover { background-color: #dddddd;
+}
+
+p{font-size: 15px}
+li{font-size: 15px}
+a2{ background-color:#f875aa ;
+font-family: 'Shrikhand'}
+
+
+.card { border: 0px solid;
+margin: 50px 250px;
+padding: 20px;
+border-radius: 20px;
+box-shadow: -8px -6px #f875aa;
+background-color: white;
+}
+
+.card:hover { background-color: #f875aa; box-shadow: -8px -6px white ;
+
+}
+
+.btn { color: #30475e;
+  background-color: white;
+  text-decoration: none;
+  padding: 6px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 400;
+font-family: 'Shrikhand'}
+
+.text-center {text-align: center;}
+
+.name {color: #30475e}
+.work {text-align: center;}
+
+img{max-width: 30%;
+	height: auto;}
