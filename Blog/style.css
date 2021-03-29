@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap');
+
+body{
+  margin: 30px;
+  text-align: center;
+}
+
+.hero{
+  height: 50vh;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2293&q=80");
+  background-size: cover;
+
+}
+
+
+.exemple1 {
+  color: white;
+  text-shadow: 2px 2px 0px #ae4e6f;
+}
+
+
+h1{
+  color: #FFFFFF;
+  font-family: 'Shrikhand';
+  font-size: 70px;
+}
+
+h2{text-align: center;
+  font-family: 'Shrikhand';
+  font-size: 40px}
+
+p1{text-align: center;
+font-family: Montserrat; 
+  font-size: 15px;
+text-align: center;}
+
+h3{text-align: center;
+  color: #9bd6de;
+  font-family: 'Shrikhand';
+  font-size: 40px}
+
+img{max-width: 30%;
+	height: auto;}
+
+.AS { width: 230px;
+height: 155px}
+
+div { border: 0px solid;
+margin: 50px 200px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: -8px -6px #71bfc9;
+background-color: #9bd6de;
+  color: #FFFFFF
+}
+div:hover { background-color: #FFFFFF; color: #9bd6de; 
+box-shadow: -8px -6px #9bd6de;
+}
+
+.btn {font-family: 'Shrikhand';}
